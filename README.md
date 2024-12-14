@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="text.gif" width=400 style="display: block; margin: 0 auto"/>
+  <img src="text(1).gif" width=400 style="display: block; margin: 0 auto"/>
 </p>
 
 <div align='center'>

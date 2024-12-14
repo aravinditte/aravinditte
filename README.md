@@ -10,7 +10,7 @@
   </p>
 </div>
 
-    <h1>Hi 👋, I'm Aravind</h1>
+  
 <p>Creative developer with expertise in AI/ML, system design.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
